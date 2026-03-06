@@ -252,4 +252,3 @@ signature.sig  # Цифровая подпись
 If you like this project, please give it a star on GitHub! It really motivates :)
 
 ---
-```
